@@ -1,4 +1,4 @@
-<h1>Sorting_Algorithms <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png" alt="logo C" width="30" height="30">C - Sorting_Algorithms</h1>
+<h1>Sorting_Algorithms <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png" alt="logo C" width="30" height="30"> - Sorting_Algorithms</h1>
 ## Background Context
 
 This project is meant to be done by groups of two students. Each group of two should pair program for at least the 

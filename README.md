@@ -46,7 +46,7 @@ At the end of this project, you are expected to be able to explain to anyone, **
 - A list/array does not need to be sorted if its size is less than 2.
 
 
-## Github
+## Github :mouse:
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name
 before the second deadline, you risk a 0% score.
 
@@ -137,20 +137,20 @@ before the second deadline, you risk a 0% score.
  - Please use the “short” notation (don’t use constants). Example: O(nk) or O(wn) should be written O(n). If an answer
    is required within a file, all your answers files must have a newline at the end.
 
-### Test
+### Test :chart_with_downwards_trend: 
 
 Here is a quick tip to help you test your sorting algorithms with big sets of random integers: Random.org
 
 
-## Task
+## Task :notebook:
 
-### Mandatory
+### Mandatory :heavy_check_mark:
 - Bubble sort
 - Insertion sort
 - Selection sort
 - Quick sort
 
-### Advanced
+### Advanced :red_circle:
 - Shell sort - Knuth Sequence
 - Cocktail shaker sort
 - Counting sort

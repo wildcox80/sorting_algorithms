@@ -1,5 +1,8 @@
-<h1>Sorting_Algorithms <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png" alt="logo C" width="30" height="30"> - Sorting_Algorithms</h1>
-## Background Context
+<h1 align="center">Sorting_Algorithms</h1>
+<p align="center"> <img src = "https://media1.giphy.com/media/QaPkV29BJh3gI/giphy.gif?cid=ecf05e47b3808a1c88b8fafe20fef1e58d98f40b33ac56f0&rid=giphy.gif" /></p>
+
+
+## Background Context :floppy_disk:
 
 This project is meant to be done by groups of two students. Each group of two should pair program for at least the 
 mandatory part.
@@ -12,7 +15,7 @@ Read or watch:
 - [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms)
 - [15 sorting algorithms in 6 minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
-## Learning Objectives
+## Learning Objectives :white_check_mark:
 At the end of this project, you are expected to be able to explain to anyone, **without the help of Google:**
 
 ## General
@@ -22,7 +25,7 @@ At the end of this project, you are expected to be able to explain to anyone, **
 - What is a stable sorting algorithm
 
 
-## Requirements
+## Requirements :clipboard:
 ## General
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 14.04 LTS

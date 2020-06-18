@@ -161,5 +161,5 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 - Quick Sort - Hoare Partition scheme
 - Dealer
 
-## Contributors  
+## Contributors :busts_in_silhouette: 
 [@Hugo Fernel - Github](https://github.com/hfsantiago) - [@DWilder Rincón - Github](https://github.com/wildcox80)
